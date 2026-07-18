@@ -20,7 +20,6 @@
 <br>
 
 <a href="https://youtu.be/C0146iTGkFA">
-  <b>Ver demostración completa en YouTube</b>
 </a>
 
 </div>
