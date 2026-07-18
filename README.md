@@ -11,21 +11,16 @@
 
 <div align="center">
 
-## 🎥 Video Demostrativo
+<h2> Video Demostrativo</h2>
 
-<p>
-  Demostración del funcionamiento de RDP RemoteApp, RD Web Access, IIS,
-  NPS/RADIUS, AAA y autenticación mediante SSH.
-</p>
-
-<a href="https://youtu.be/C0146iTGkFA" target="_blank">
-  <img src="https://cdn.simpleicons.org/youtube/FF0000" alt="YouTube" width="70"/>
+<a href="https://youtu.be/C0146iTGkFA">
+  <img src="https://cdn.simpleicons.org/youtube/FF0000" width="50" alt="YouTube">
 </a>
 
 <br>
 
 <a href="https://youtu.be/C0146iTGkFA">
-  <strong>Ver video demostrativo en YouTube</strong>
+  <b>Ver demostración completa en YouTube</b>
 </a>
 
 </div>
