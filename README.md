@@ -208,7 +208,13 @@ Cuando un usuario intenta acceder administrativamente al router, el dispositivo 
 
 NPS procesa la solicitud utilizando las políticas y los usuarios configurados dentro de la infraestructura.
 
+Usuario Nivel 1
+
 ![NPS RADIUS y grupos de privilegios](capturas/04-nps-radius-y-grupos-privilegios.png)
+
+Usuario Nivel 15
+
+![NPS RADIUS y grupos de privilegios](capturas/05-nps-radius-y-grupos-privilegios.png)
 
 *Figura 4. Configuración del servidor NPS/RADIUS y grupos utilizados para los niveles de acceso.*
 
@@ -256,7 +262,7 @@ Adicionalmente, se configuró una contraseña para acceder al modo privilegiado 
 
 Esta configuración proporciona un mecanismo adicional de administración y recuperación del dispositivo.
 
-![Configuración AAA y RADIUS](capturas/05-configuracion-aaa-radius-router.png)
+![Configuración AAA y RADIUS](capturas/06-configuracion-aaa-radius-router.png)
 
 *Figura 5. Configuración de AAA y comunicación RADIUS implementada en el router Cisco.*
 
@@ -294,7 +300,7 @@ El usuario introduce sus credenciales durante la conexión SSH y el router utili
 
 La comunicación entre los diferentes componentes permite verificar el funcionamiento de la autenticación centralizada implementada durante la práctica.
 
-![Prueba SSH mediante RADIUS](capturas/06-prueba-ssh-autenticacion-radius.png)
+![Prueba SSH mediante RADIUS](capturas/07-prueba-ssh-autenticacion-radius.png)
 
 *Figura 6. Prueba de acceso SSH utilizando autenticación mediante NPS/RADIUS.*
 
@@ -364,7 +370,7 @@ undebug all
 
 para detener todos los procesos de debug activos en el router.
 
-![Verificación AAA y RADIUS](capturas/07-verificacion-debug-aaa-radius.png)
+![Verificación AAA y RADIUS](capturas/08-verificacion-debug-aaa-radius.png)
 
 *Figura 7. Verificación de los procesos de autenticación, autorización y comunicación RADIUS mediante comandos de Cisco IOS.*
 
