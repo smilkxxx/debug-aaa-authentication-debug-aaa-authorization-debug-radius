@@ -28,10 +28,6 @@
   <strong>Ver video demostrativo en YouTube</strong>
 </a>
 
-<br><br>
-
-<strong>Duración aproximada: 4 minutos</strong>
-
 </div>
 
 ---
