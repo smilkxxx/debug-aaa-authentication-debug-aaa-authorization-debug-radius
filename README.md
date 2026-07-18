@@ -9,23 +9,34 @@
 
 ---
 
-## 🎥 Video demostrativo
+<div align="center">
 
-En el siguiente video se presenta la demostración del correcto funcionamiento de la infraestructura implementada, incluyendo RDP RemoteApp, RD Web Access, IIS, NPS/RADIUS, AAA y autenticación mediante SSH.
+## 🎥 Video Demostrativo
 
-**Duración aproximada:** 4 minutos.
+<p>
+  Demostración del funcionamiento de RDP RemoteApp, RD Web Access, IIS,
+  NPS/RADIUS, AAA y autenticación mediante SSH.
+</p>
 
-**Enlace del video:**  
-https://youtu.be/C0146iTGkFA
+<a href="https://youtu.be/C0146iTGkFA" target="_blank">
+  <img src="https://cdn.simpleicons.org/youtube/FF0000" alt="YouTube" width="70"/>
+</a>
+
+<br>
+
+<a href="https://youtu.be/C0146iTGkFA">
+  <strong>Ver video demostrativo en YouTube</strong>
+</a>
+
+<br><br>
+
+<strong>Duración aproximada: 4 minutos</strong>
+
+</div>
 
 ---
 
-## 📁 Repositorio del proyecto
-
-El repositorio contiene la documentación técnica y las evidencias correspondientes a la implementación y verificación de la práctica.
-
-**Enlace del repositorio:**  
-https://github.com/smilkxxx/debug-aaa-authentication-debug-aaa-authorization-debug-radius.git
+## 📋 Descripción del proyecto
 
 ---
 
